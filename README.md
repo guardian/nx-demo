@@ -1,6 +1,6 @@
+# nx-demo
 
-
-# ClientSideToolingAndInfra
+> This is just @guardian/client-side-infra-and-tools having a look at Nx...
 
 This project was generated using [Nx](https://nx.dev).
 
@@ -45,7 +45,7 @@ Run `nx g @nrwl/react:lib my-lib` to generate a library.
 
 > You can also use any of the plugins above to generate libraries as well.
 
-Libraries are shareable across libraries and applications. They can be imported from `@client-side-tooling-and-infra/mylib`.
+Libraries are shareable across libraries and applications. They can be imported from `@guardian/mylib`.
 
 ## Development server
 
@@ -78,8 +78,6 @@ Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
-
-
 
 ## ☁ Nx Cloud
 
