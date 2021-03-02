@@ -19,7 +19,7 @@ jobs:
         uses: bahmutov/npm-install@v1
 
       - name: Build
-        run: yarn nx dep-graph --file=dist/gh-pages/output.html
+        run: yarn nx dep-graph --file=dist/gh-pages/index.html
 
       - name: Deploy
         env:
