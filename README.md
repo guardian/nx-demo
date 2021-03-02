@@ -2,7 +2,7 @@
 
 > 🕵️‍♀️ This is just [@guardian/client-side-infra-and-tools](https://github.com/orgs/guardian/teams/client-side-infra-and-tools) having a look at Nx...
 
-This project was generated using [Nx](https://nx.dev).
+This project was generated using [Nx](https://nx.dev)
 
 <p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
 
